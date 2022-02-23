@@ -4,10 +4,10 @@ import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalCompon
 import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 const data = [
-  { number: 20, text: 'Open Source Projects'},
-  { number: 1000, text: 'Students', },
-  { number: 1900, text: 'Github Followers', },
-  { number: 5000, text: 'Github Stars', }
+  { number: 50, text: 'Secures a position under the top 50 In the National AR-VR Hackathon organized by iHUB DivyaSampark @ IIT Roorkee in association with TechXR innovations. '},
+  { number: 0, text: '--', },
+  { number: 0, text: '--', },
+  { number: 0, text: '--', }
 ];
 
 const Acomplishments = () => (
